@@ -1,3 +1,8 @@
+A chat application makes it easy to communicate with people anywhere in the world by sending and receiving messages in real time. With a real-time chat app, users are able to receive the same engaging and lively interactions through custom messaging features, just as they would in person.
+
+The server and clients can run on different computers in the same network, e.g. Local Area Network (LAN). There can be multiple clients connect to a server and they can chat to each other, just like in a chat room where everyone can see other users' messages.
+
+
 
 ![image](https://user-images.githubusercontent.com/46970931/193462504-99105099-507a-4856-8b4f-d450b7a46c28.png)
 The server is on and waiting for the connection.
